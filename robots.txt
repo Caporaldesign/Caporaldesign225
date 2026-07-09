@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://caporaldesign225.github.io/Caporaldesign225/sitemap.xml
